@@ -57,7 +57,7 @@ PRODUCT_COPY_FILES := \
     vendor/samsung/p4/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/samsung/p4/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
     vendor/samsung/p4/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
-    vendor/samsung/p4/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+    vendor/samsung/p4/proprietary/lib/hw/hwcomposer.tegra_v0.so:system/lib/hw/hwcomposer.tegra_v0.so \
     vendor/samsung/p4/proprietary/lib/hw/lights.p3.so:system/lib/hw/lights.p3.so \
     vendor/samsung/p4/proprietary/lib/hw/sensors.p3.so:system/lib/hw/sensors.p3.so \
     vendor/samsung/p4/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
