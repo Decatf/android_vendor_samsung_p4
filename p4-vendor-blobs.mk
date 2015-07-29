@@ -119,7 +119,6 @@ PRODUCT_COPY_FILES := \
     vendor/samsung/p4/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/samsung/p4/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/p4/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/p4/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/samsung/p4/proprietary/lib/libwvm.so:system/vendor/libwvm.so \
     vendor/samsung/p4/proprietary/lib/libWVStreamControlAPI_L3.so:system/vendor/libWVStreamControlAPI_L3.so \
     vendor/samsung/p4/proprietary/lib/libwvdrm_L3.so:system/vendor/libwvdrm_L3.so \
