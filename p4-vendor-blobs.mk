@@ -117,10 +117,6 @@ PRODUCT_COPY_FILES := \
     vendor/samsung/p4/proprietary/vendor/lib/libnvwsi.so:system/vendor/lib/libnvwsi.so \
     vendor/samsung/p4/proprietary/vendor/lib/libsecril-client.so:system/vendor/lib/libsecril-client.so \
     vendor/samsung/p4/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
-    vendor/samsung/p4/proprietary/vendor/lib/libwvm.so:system/vendor/libwvm.so \
-    vendor/samsung/p4/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/libWVStreamControlAPI_L3.so \
-    vendor/samsung/p4/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/libwvdrm_L3.so \
-    vendor/samsung/p4/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/mediadrm/libwvdrmengine.so \
     vendor/samsung/p4/proprietary/vendor/lib/omxplayer.so:system/vendor/lib/omxplayer.so \
     vendor/samsung/p4/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
     vendor/samsung/p4/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf \
